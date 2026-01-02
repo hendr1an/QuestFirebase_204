@@ -1,4 +1,4 @@
-package com.example.questfirebase_204.ui.theme
+package com.example.myfirebase.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
