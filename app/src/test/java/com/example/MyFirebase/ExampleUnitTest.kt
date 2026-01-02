@@ -1,4 +1,4 @@
-package com.example.questfirebase_204
+package com.example.MyFirebase
 
 import org.junit.Test
 
