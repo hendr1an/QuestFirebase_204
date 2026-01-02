@@ -1,4 +1,4 @@
-package com.example.questfirebase_204
+package com.example.MyFirebase
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
