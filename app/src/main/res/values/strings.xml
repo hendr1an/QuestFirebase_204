@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">QuestFirebase_204</string>
+    <string name="app_name">Data Firebase</string>
+    <string name="entry_siswa">Tambah Siswa</string>
+    <string name="detail_siswa">Detail Siswa</string>
+    <string name="edit_siswa">Edit Siswa</string>
+    <string name="back">Kembali</string>
+
+    <string name="gagal">Gagal memuat data. Silakan coba lagi.</string>
+    <string name="deskripsi_no_item">Tidak ada data siswa ditemukan.</string>
+
+    <string name="nama">Nama Siswa</string>
+    <string name="alamat">Alamat</string>
+    <string name="telpon">No. Telepon</string>
+    <string name="btn_submit">Simpan</string>
 </resources>
